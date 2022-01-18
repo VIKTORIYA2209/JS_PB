@@ -1,5 +1,3 @@
-
-var val='r'
    
     if (val == 'a') {
         message = 'a';
